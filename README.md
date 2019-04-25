@@ -9,5 +9,5 @@ The folders in this project are named to match the URLs for each project on the 
 The URL for Yes We Can World Foundation is:  
 https://challenge.la2050.org/2019/learn/yes-we-can-world-foundation/
 
-And the archived image URL is:  
-https://challenge-static.la2050.org/assets/images/2019/learn/yes-we-can-world-foundation.jpg
+And the image URL is:  
+https://challenge-static.la2050.org/assets/images/2019/learn/2048-wide/yes-we-can-world-foundation.jpg
